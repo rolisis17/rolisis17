@@ -1,5 +1,7 @@
 # Hi, I'm Dracsis Cella
 
+#Please ignore the 'very old' profile picture
+
 I am a software developer with a systems-heavy background from '42 The Network', building projects that sit close to the operating system, networking stack, data flow, and developer tooling.
 
 My work is strongest where software has to be understood end to end: parse the input, manage memory and processes, move data between components, keep the system observable, and explain the design clearly enough that another engineer can maintain it.
