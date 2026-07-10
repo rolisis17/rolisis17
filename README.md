@@ -1,6 +1,6 @@
 # Hi, I'm Dracsis Cella
 
-#Please ignore the 'very old' profile picture
+# Please ignore the 'very old' profile picture
 
 I am a software developer with a systems-heavy background from '42 The Network', building projects that sit close to the operating system, networking stack, data flow, and developer tooling.
 
