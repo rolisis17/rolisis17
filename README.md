@@ -1,6 +1,6 @@
-# Hi, I'm Dracsis Almeida
+# Hi, I'm Dracsis Cella
 
-I am a software developer with a systems-heavy background from 42 Lisboa, building projects that sit close to the operating system, networking stack, data flow, and developer tooling.
+I am a software developer with a systems-heavy background from '42 The Network', building projects that sit close to the operating system, networking stack, data flow, and developer tooling.
 
 My work is strongest where software has to be understood end to end: parse the input, manage memory and processes, move data between components, keep the system observable, and explain the design clearly enough that another engineer can maintain it.
 
@@ -34,6 +34,8 @@ HTTP server written from scratch in C++98. It handles configuration parsing, sta
 
 Unix shell written in C as a group project. It implements parsing, pipes, redirects, heredocs, environment expansion, built-ins, signal handling, process execution, and Readline history.
 
+### And many other private projects.
+
 ## Core Skills
 
 ```text
@@ -53,5 +55,4 @@ I like projects where the code is not just a feature, but part of a working syst
 ## Find Me
 
 - GitHub: [github.com/rolisis17](https://github.com/rolisis17)
-- Email: `your.email@example.com`
-- LinkedIn: `https://www.linkedin.com/in/your-profile`
+- Email: `dracsiscella@gmail.com`
